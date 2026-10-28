@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+
+    <!-- light rays -->
+    <path android:pathData="M16,58 L27,58" android:strokeColor="#FFC53D" android:strokeWidth="5" android:strokeLineCap="round" />
+    <path android:pathData="M21,36 L31,42" android:strokeColor="#FF8A3D" android:strokeWidth="5" android:strokeLineCap="round" />
+    <path android:pathData="M23,81 L32,75" android:strokeColor="#FF5CA8" android:strokeWidth="5" android:strokeLineCap="round" />
+    <path android:pathData="M104,58 L93,58" android:strokeColor="#22D3EE" android:strokeWidth="5" android:strokeLineCap="round" />
+    <path android:pathData="M99,36 L89,42" android:strokeColor="#38BDF8" android:strokeWidth="5" android:strokeLineCap="round" />
+    <path android:pathData="M97,81 L88,75" android:strokeColor="#FF5CA8" android:strokeWidth="5" android:strokeLineCap="round" />
+    <!-- bulb -->
+    <path android:pathData="M60,36 C46,36 36,46 36,60 C36,69 41,75 46,80 L46,88 L74,88 L74,80 C79,75 84,69 84,60 C84,46 74,36 60,36 Z" android:fillColor="#2A2290" android:strokeColor="#7C6CFF" android:strokeWidth="5" android:strokeLineJoin="round" />
+    <!-- brain -->
+    <path android:pathData="M60,46 L60,80" android:strokeColor="#C4B5FD" android:strokeWidth="3.5" android:strokeLineCap="round" />
+    <path android:pathData="M60,50 C54,45 46,49 48,56 C42,58 42,67 49,69 C48,75 55,78 60,74" android:strokeColor="#C4B5FD" android:strokeWidth="3.5" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:pathData="M60,50 C66,45 74,49 72,56 C78,58 78,67 71,69 C72,75 65,78 60,74" android:strokeColor="#C4B5FD" android:strokeWidth="3.5" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <!-- bulb base -->
+    <path android:pathData="M50,95 L70,95" android:strokeColor="#7C6CFF" android:strokeWidth="4.5" android:strokeLineCap="round" />
+    <path android:pathData="M54,102 L66,102" android:strokeColor="#7C6CFF" android:strokeWidth="4.5" android:strokeLineCap="round" />
+    <!-- graduation cap -->
+    <path android:pathData="M44,29 L44,37 C44,37 50,41 60,41 C70,41 76,37 76,37 L76,29 L60,35 Z" android:fillColor="#CBD5E1" />
+    <path android:pathData="M60,13 L89,24 L60,35 L31,24 Z" android:fillColor="#FFFFFF" />
+    <path android:pathData="M89,24 L89,37" android:strokeColor="#FFC53D" android:strokeWidth="2.5" android:strokeLineCap="round" />
+    <path android:pathData="M86,39 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" android:fillColor="#FFC53D" />
+</vector>
